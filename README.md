@@ -1,1 +1,3 @@
-# copernicspace-dapp
+Copernic Space DApp
+
+    yarn dev
